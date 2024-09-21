@@ -1,0 +1,43 @@
+.table1{
+    height: 800px;
+    width: 200px;
+    background-color: black;
+    color: aliceblue;
+    padding: 20px 12px;
+}
+.table2{
+    display: flex;
+    position: relative;
+    left: 220px;
+    bottom: 800px;
+}
+.table3{
+    display: flex;
+    position: relative;
+    left: 300px;
+    bottom: 700px;
+    color:white;
+}
+.table4{
+    display: flex;
+    position: relative;
+    left: 300px;
+    bottom: 680px;
+    color: white;
+    font-size: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px 25px;
+}
+.table5{
+    display: flex;
+    position:relative;
+    left: 300px;
+    bottom: 660px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 30px;
+}
+
+body{
+    background-color: black;
+}
